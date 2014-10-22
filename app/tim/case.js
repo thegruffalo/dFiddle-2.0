@@ -1,4 +1,4 @@
-define(['router'],function(router){
+define(['plugins/router'],function(router){
 function Test(){
   this.clientId = null;
   this.caseId = null;
